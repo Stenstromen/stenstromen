@@ -1,8 +1,7 @@
+![Header](./github-header-image.png)
 <div align="center">
-  <h1>Stenstromen's GitHub Huddle</h1>
+  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=stenstromen.visitor-badge&right_color=green" />
 </div>
-
-
 <div align="center">
   <h1>Technology Stack</h1>
   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
