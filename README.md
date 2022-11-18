@@ -1,6 +1,15 @@
 # My GitHub Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=stenstromen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stenstromen&theme=dark&layout=compact&langs_count=10#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
+# My GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stenstromen&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenstromen&theme=dark&layout=compact&langs_count=10#gh-dark-mode-only" />
+</a>
+
 <!--
 **Stenstromen/stenstromen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
