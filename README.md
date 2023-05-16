@@ -1,8 +1,5 @@
 ![Header](./github-header-image.png)
 <div align="center">
-  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=stenstromen.visitor-badge&right_color=green" />
-</div>
-<div align="center">
   <h1>Laptop Stickers</h1>
   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
