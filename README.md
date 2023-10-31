@@ -40,17 +40,18 @@
 
 <div align="center">
   <h1>GitHub Stats</h1>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=stenstromen&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenstromen&theme=dark&layout=compact&langs_count=10#gh-dark-mode-only" />
+</a>-->
+
+  <a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=stenstromen&theme=dark" />
 </a>
 </div>
 <br>
 <div align="center">
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=stenstromen&theme=dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenstromen&theme=dark&layout=compact&langs_count=10#gh-dark-mode-only" />
 </a>
 </div>
 
