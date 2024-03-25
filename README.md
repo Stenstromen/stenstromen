@@ -41,9 +41,10 @@
 <!--<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=stenstromen&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://gh.addr.se/lang/svg?username=stenstromen" />
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenstromen&theme=dark&layout=compact&langs_count=10#gh-dark-mode-only" />
-</a>
+</a> -->
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=stenstromen&theme=dark" />
 </a>
