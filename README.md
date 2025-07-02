@@ -46,6 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=stenstromen&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>-->
   <img src="https://gh.addr.se/lang/svg?username=stenstromen" />
+  <img src="https://gh.addr.se/stars/svg?username=stenstromen" />
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenstromen&theme=dark&layout=compact&langs_count=10#gh-dark-mode-only" />
 </a> -->
